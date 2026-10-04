@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "#/*": ["./public/assets/*"],
+      "%/*": ["./src/app/redux/*"]
+    }
+  }
+}
