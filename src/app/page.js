@@ -1,7 +1,12 @@
+"use client";
+
+import { BaseLayout } from "./components/BaseLayout";
+import { Hero } from "./sections/Hero";
+
 export default function Home() {
   return (
-    <div>
-      <h1>Hello!</h1>
-    </div>
+    <BaseLayout>
+      <Hero />
+    </BaseLayout>
   );
 }

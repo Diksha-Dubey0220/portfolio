@@ -8,23 +8,19 @@ import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata = {
-  title: "Mukesh Sharma - Full Stack Developer",
-  description:
-    "Experienced Full stack developer specializing in creating robust and scalable web applications. Passionate about delivering high-quality solutions to meet client needs.",
-  keywords:
-    "Full Stack Developer, Front End Developer, Back End Developer, Web Developer, MongoDB, ExpressJS, ReactJS, NodeJS",
-  author: "Mukesh Sharma",
-  image: "./icon.png",
-  url: "https://mukesh-sharma.vercel.app",
+  title: "",
+  description: "",
+  keywords: "",
+  author: "",
+  image: "",
+  url: "",
   type: "website",
-  ogTitle: "Mukesh Sharma - Full Stack Developer",
-  ogDescription:
-    "Experienced Full stack developer specializing in creating robust and scalable web applications. Passionate about delivering high-quality solutions to meet client needs.",
-  ogImage: "./icon.png",
-  twitterTitle: "Mukesh Sharma - Full Stack Developer",
-  twitterDescription:
-    "Experienced Full stack developer specializing in creating robust and scalable web applications. Passionate about delivering high-quality solutions to meet client needs.",
-  twitterImage: "./icon.png",
+  ogTitle: "",
+  ogDescription: "",
+  ogImage: "",
+  twitterTitle: "",
+  twitterDescription: "",
+  twitterImage: "",
 };
 
 export default function Layout({ children }) {
