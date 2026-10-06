@@ -10,10 +10,11 @@ export const Hero = () => {
         <MyName>Diksha Dubey</MyName>
         <MyDesc>Cloud & DevOps | Web Developer</MyDesc>
         <MyStory>
-          I am an aspiring Cloud Engineer currently pursuing my Online Master of
-          Computer Applications (MCA) from Manipal University. I am building a
-          strong foundation in cloud computing with focused expertise in AWS,
-          Linux, and networking fundamentals.
+          MCA candidate specializing in Cloud Computing with hands-on knowledge
+          of AWS, Linux, Docker, Git, CI/CD, networking, and cloud
+          infrastructure. Strong foundation in web development using JavaScript,
+          React.js, Next.js, Node.js, and REST APIs, with experience building
+          and deploying responsive web applications.
         </MyStory>
         <ButtonsWrapper>
           <PrimaryBtn>Download CV</PrimaryBtn>
